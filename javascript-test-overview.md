@@ -7,7 +7,7 @@
 
 **2.Yêu cầu**
 
--   Học viên xây dựng giao diện UI tùy ý miễn bao gồm: Danh sách sản phẩm, input search sản phẩm
+-   Học viên xây dựng giao diện theo mẫu figma: 
 -   Người dùng nhập tên sản phẩm cần tìm kiểm vào khung input và nhấn enter thì chương trình sẽ tự động show các sản phẩm thỏa yêu cầu tìm kiếm
 
 **3.Dữ liệu mẫu**
