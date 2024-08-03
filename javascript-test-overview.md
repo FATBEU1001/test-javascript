@@ -2,7 +2,7 @@
 
 **1.Tổng quan**
 
--   Học viên sẽ dựa vào dữ liệu mẫu để tạo ra một ứng dụng tìm kiếm thông tin sản phẩm
+-   Học viên sẽ dựa vào dữ liệu mẫu để tạo ra một ứng dụng tìm kiếm sản phẩm và xem thông tin chi tiết sản phẩm
 -   Học viên sử dụng javascript thuần để thực hiện
 
 **2.Yêu cầu**
